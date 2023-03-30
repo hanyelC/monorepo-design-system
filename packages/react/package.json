@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@hanyel-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -21,9 +21,9 @@
     "phosphor-react": "^1.4.1"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@hanyel-ignite-ui/eslint-config": "*",
+    "@hanyel-ignite-ui/tokens": "*",
+    "@hanyel-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.30",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",

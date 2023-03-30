@@ -1,8 +1,9 @@
 {
-  "name": "docs",
+  "name": "@hanyel-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
@@ -27,10 +28,10 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@hanyel-ignite-ui/eslint-config": "*",
+    "@hanyel-ignite-ui/react": "*",
+    "@hanyel-ignite-ui/tokens": "*",
+    "@hanyel-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
