@@ -1,0 +1,2 @@
+import{A as t}from"./index-47ddfde9.js";import"./index-f75f31b9.js";import"./iframe-fceb0891.js";import"./index-00dde4e6.js";import"./jsx-runtime-67fed2b8.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/hanyelC.png",alt:"Avatar image"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-550a1b79.js.map
