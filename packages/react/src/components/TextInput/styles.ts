@@ -47,7 +47,7 @@ export const Input = styled('input', {
   fontWeight: '$regular',
   background: 'transparent',
   border: 0,
-  width: '100$',
+  width: '100%',
   outline: 0,
 
   '&:disabled': {
